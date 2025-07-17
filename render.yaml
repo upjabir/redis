@@ -7,5 +7,3 @@ services:
     name: data
     mountPath: /var/lib/redis
     sizeGB: 10
-  cpuCount: 4     # Increased from 1 to 4
-  memoryMB: 5120
